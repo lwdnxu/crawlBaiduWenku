@@ -20,7 +20,7 @@
 
 >  - 先用cmd切换到requirements.txt路径
 >
-> - **pip install -r https://pypi.tuna.tsinghua.edu.cn/simple -r requirement.txt**
+> - **pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirement.txt**
 
  **3. 下载PhantomJS(本文档自带)**
 
